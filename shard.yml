@@ -1,0 +1,13 @@
+name: google-apis-cr
+version: 0.1.0
+
+authors:
+  - Nick Brandaleone <nbrand@mac.com>
+
+targets:
+  google-apis-cr:
+    main: src/google-apis-cr.cr
+
+crystal: '>= 1.10.1'
+
+license: MIT
