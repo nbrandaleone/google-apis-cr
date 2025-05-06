@@ -1,6 +1,7 @@
 # google-apis-cr
 
-TODO: Write a description here
+This library provides crystal the ability to interact with Google services.
+For now, it only works with PubSub.
 
 ## Installation
 
@@ -25,3 +26,4 @@ TODO: Write development instructions here
 ## Contributors
 
 - [Nick Brandaleone](https://github.com/your-github-user) - creator and maintainer
+    May 2025
